@@ -9,6 +9,8 @@
   - #### Output
     - print()
     - println()
+    - readLine()
+    - readln()
 
   - #### Comments
     - Single-line Comments
