@@ -23,12 +23,10 @@
     - specify the type or not
     - assign the value later
     - Variable's name
-      - Names can contain letters, digits, underscores, and dollar signs 
-      - Names should start with a letter
-      - Names can also begin with $ and _
-      - Names are case-sensitive
-      - Names should start with a lowercase letter, and it cannot contain whitespace 
-      - Reserved words cannot be used as names
+      * Names can contain letters, digits, underscores, and dollar signs 
+      * Names are case-sensitive
+      * Names should start with a lowercase letter, and it cannot contain whitespace 
+      * Reserved words cannot be used as names
   
   - #### Data types
     - Types :
@@ -106,6 +104,7 @@
     - vararg Parameters
     - Return Values
     - Shorter Syntax for Return Values
+    - Lambdas
   
   - #### Null safety
     - (?) nullable :
