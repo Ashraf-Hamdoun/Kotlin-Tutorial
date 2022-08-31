@@ -3,19 +3,19 @@
 ## **_Road map_**:
 - ### **Essentials**:
   - #### Syntax
-    - main function
-    - No params since version 1.3
+    - A Kotlin program requires a main function as the entry point of the program.
+    - No params are required since version 1.3
+
+  - #### Comments
+    - Single-line Comments
+      - can be used at the end of line code
+    - Multi-line Comments
 
   - #### Output
     - print()
     - println()
     - readLine()
     - readln()
-
-  - #### Comments
-    - Single-line Comments
-      - can be used at the end of line code
-    - Multi-line Comments
 
   - #### Variables
     - Immutable using val keyword
@@ -99,10 +99,13 @@
 
   - #### Functions
     - Parameters
-      - positional
+      - positional parameters
+      - named parameters
+      - default arguments (=)
     - Default value of params
     - vararg Parameters
     - Return Values
+    - Return Unit
     - Shorter Syntax for Return Values
     - Lambdas
   
@@ -119,3 +122,16 @@
       - the value can't be null
   
   - #### Expression, Statement and Block
+  - #### Best practices (style guide recommendations):
+    - Function names should be in camel case and should be verbs or verb phrases. 
+    - Each statement should be on its own line.
+    - The opening curly brace should appear at the end of the line where the function begins.
+    - There should be a space before the opening curly brace.
+    - The function body should be indented in by 4 spaces. Do not use a tab character to indent your code, type in 4 spaces.
+    - The closing curly brace is on its own line after the last line of code in the function body. The closing brace should line up with the fun keyword at the beginning of the function.
+    - Variable names should be in camel case and start with a lowercase letter.
+    - In a variable declaration, there should be a space after a colon when you specify the data type.
+    - This diagram shows a line of code that says: val discount: Double = .20 There is an arrow pointing to the space between the colon symbol and the Double data type, with a label that says space.
+    - There should be a space before and after an operator like the assignment (=), addition (+), subtraction (-), multiplication (*), division (/) operators and more.
+    - As you write more complex programs, there is a recommended limit of 100 characters per line. That ensures that you can read all the code in a program easily on your computer screen, without needing to scroll horizontally when reading code.
+    - 
