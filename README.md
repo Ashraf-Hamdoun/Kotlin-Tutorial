@@ -28,9 +28,9 @@
     - \b - Inserts backspace.
     - \n - Inserts newline.
     - \r - Inserts carriage return.
-    - \' - Inserts single quote character.
-    - \" - Inserts double quote character.
-    - \\ - Inserts backslash.
+    - \\' - Inserts single quote character.
+    - \\" - Inserts double quote character.
+    - \\\ - Inserts backslash.
     - \$ - Inserts dollar character.
 
   - #### Variables
