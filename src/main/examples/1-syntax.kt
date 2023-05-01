@@ -5,5 +5,6 @@ package com.packageName
 import kotlin.text.*
 
 fun main() {
-    // The will be excuted
+    // Any code, you write here, will be excuted.
+    println('Welcome to Kotlin')
 }
