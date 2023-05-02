@@ -1,7 +1,7 @@
 fun main() {
     // Output method
-    println("Welcome,")
-    print("Enter your name: ")
+    println("Welcome,") // this will end line
+    print("Enter your name: ") // this will not end line and continue ...
 
     // Input method #1
     val userName = readln()

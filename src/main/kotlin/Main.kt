@@ -1,21 +1,5 @@
 fun main() {
-    val myCar = Car(3)
-    val schoolBus = Bus(45)
 
-    fun info(vehicle: Vehicle, name: String) {
-        with(vehicle) {
-            println(name)
-            println("=======")
-            println("Capacity : $capacity")
-            println("Wheels : $numOfWheel")
-            println("Number of passengers is $passengers")
-            println("Has empty sets ? ${hasEmptySet()}")
-            println()
-        }
-    }
-
-    info(myCar, "My car")
-    info(schoolBus, "School bus")
 }
 
 

@@ -19,8 +19,9 @@
 
     - print()
     - println()
-    - readLine()
-    - readln()
+    - readLine() >> read line only
+    - readln()   >> read line or return RuntimeException
+    - readlnOrNull() >> read line or return Null
 
   - #### Escape characters
 
@@ -44,6 +45,8 @@
       - Names are case-sensitive
       - Names should start with a lowercase letter, and it cannot contain whitespace
       - Reserved words cannot be used as names
+      - name best practices
+      - name style (lowerCase, pascalCase, camelCase)
 
   - #### Data types
 
