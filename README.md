@@ -1,8 +1,8 @@
 # **Kotlin Tutorial**
 
-## **_Road map_** :
+## **_Road map to learn_ _Kotlin_** :
 
-- ### **Essentials And Fundamentals Of Programming (EFP)**:
+- ### **Fundamentals Of Programming With Kotlin (FPK)**:
 
   - #### Syntax
 
@@ -32,7 +32,7 @@
     - \\' - Inserts single quote character.
     - \\" - Inserts double quote character.
     - \\\ - Inserts backslash.
-    - \$ - Inserts dollar character.
+    - \\$ - Inserts dollar character.
 
   - #### Variables
 
@@ -50,16 +50,17 @@
 
   - #### Data types
 
-    - Types :
-      - Numbers
+    - _**Primitive types :**_
+      - _Numbers_
         - Integer : Byte, Short, Int and Long
-        - Float
-        - Double
-      - Characters
+        - Units (unsigned) : UByte, UShort, UInt, ULong
+        - Doubles : Float, Double
+      - _Characters_
         - must be surrounded by single quotes
-      - Booleans
-        - ture or false
-      - Strings
+      - _Booleans_
+        - ture (1) or false (0)
+    - **_Structures :_**
+      - _Strings_
         - list of Chars
         - must be surrounded by double quotes
       - Lists
