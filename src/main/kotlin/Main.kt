@@ -1,12 +1,12 @@
 fun main() {
-    // To insert tab (equal 4 espeaces)
+    // To insert tab (equal 4 spaces)
     println("Hello\tKotlin") // => Hello    Kotlin
 
-    // To insert backespeace
+    // To insert backspace
     println("Hello Kotlin\b") // => Hello Kotli
 
     // To insert new line
-    println("Hello\nKotlin") // every word will be printed in seaprted line
+    println("Hello\nKotlin") // every word will be printed in speared line
 
     // To insert carriage return
     println("Hello\rKotlin") // => Kotlin

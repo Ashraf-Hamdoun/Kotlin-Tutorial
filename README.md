@@ -4,6 +4,11 @@
 
 - ### **Fundamentals Of Programming With Kotlin (FPK)**:
 
+  - #### Why Kotlin
+    - Concise. Cross‑platform. Fun.
+    - multipurpose language
+    - interpreted language
+
   - #### Syntax
 
     - A Kotlin program requires a main function as the entry point of the program.
